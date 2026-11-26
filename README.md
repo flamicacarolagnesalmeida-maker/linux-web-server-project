@@ -5,7 +5,7 @@ A beginner project where I set up a working web server on Ubuntu (WSL) using Ngi
 ## Tools used
 - Ubuntu on WSL (Windows Subsystem for Linux)
 - Nginx web server
-- nano text editor
+- nano text editor 
 
 ## Steps
 1. Updated packages: `sudo apt update`
